@@ -1,1 +1,3 @@
 # curGit
+
+nuevos poderes
